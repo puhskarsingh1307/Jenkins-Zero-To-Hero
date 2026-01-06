@@ -8,3 +8,4 @@ spec:
   server:
     service:
       type: NodePort
+testing 06012026
